@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 70px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, serif;
+}
+
+blockquote{
+    border-left: 2px solid rgb(221, 221, 221);;
+    font-style: italic;
+    text-align-last: end;
+    line-height: 3;
+}
+
+table {
+    border: 1px solid;
+    width: 100%;
+  }
+
+
+  thead th {
+    background-color: rgb(204, 199, 199);
+  }
+  
+ 
