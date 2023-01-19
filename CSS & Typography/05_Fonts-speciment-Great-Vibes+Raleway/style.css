@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Lora";
+    src: url("fonts/GreatVibes-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Yonova";
+    src: url("fonts/Raleway-VariableFont_wght.ttf");
+}
+
+body{
+   padding: 70px;
+}
+
+section header h1 {
+    font-family: "Lora", cursive;
+    line-height: 1.2;
+    font-weight: bold;
+}
+
+section p, ul, ol {
+    font-family: "Yonova", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
